@@ -7,9 +7,11 @@ The client would like to know more about the impact of weather in setting up a s
 # Results
 ## Figures
 !["June temp summmary"](Resources/June_temp_summary.png)
+
 Figure June Temperature summary statistics
 
 !["December temp summary"](Resources/Dec_temp_summary.png)
+
 Figure December Temperature summary statistics
 
 ## Major points
